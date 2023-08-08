@@ -138,15 +138,10 @@ products.html
 
 ```
 ## OUTPUT:
-![output](./out7.png)
 ![output](./out8.png)
 
 ### Home Page:
 ![output](./images/homepage.jpg)
-
-
-## HTML Validator
-![output](./error.png)
 
 ## Result:
 

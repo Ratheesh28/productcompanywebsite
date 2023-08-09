@@ -138,10 +138,11 @@ products.html
 
 ```
 ## OUTPUT:
-![output](./out8.png)
-
-### Home Page:
-![output](./images/homepage.jpg)
+![output](./output1.png)
+![output](./output2.png)
+![output](./output3.png)
+![output](./output4.png)
+![output](./output5.png)
 
 ## Result:
 

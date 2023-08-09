@@ -138,11 +138,13 @@ products.html
 
 ```
 ## OUTPUT:
-![output](./output1.png)
-![output](./output2.png)
-![output](./output3.png)
-![output](./output4.png)
-![output](./output5.png)
+![output1](https://github.com/Ratheesh28/productcompanywebsite/assets/138849186/db99dbaa-0c99-4f03-9937-a409f4988086)
+![output2](https://github.com/Ratheesh28/productcompanywebsite/assets/138849186/33e2b5c9-4974-4f43-9965-e75efdec2c52)
+![output3](https://github.com/Ratheesh28/productcompanywebsite/assets/138849186/67d20f6c-f81b-40ec-9b65-7e7feb73f64f)
+![output4](https://github.com/Ratheesh28/productcompanywebsite/assets/138849186/bba79b5e-8641-4fe7-be26-30a979e6046f)
+![output5](https://github.com/Ratheesh28/productcompanywebsite/assets/138849186/ae1c7c7e-aac1-4b7e-8281-597d7c0742e8)
+
+
 
 ## Result:
 
